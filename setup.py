@@ -13,5 +13,5 @@ setup(
     url='https://github.com/takashiAg/easy_mongo_python',
     keywords='sample pip github python',
     packages=find_packages(),
-    install_requires=['pymongo'],
+    install_requires=[],
 )
