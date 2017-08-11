@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="296c8247-cd1f-4ba5-8289-e1232143a91e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easy_mongo/__init__.py" afterPath="$PROJECT_DIR$/easy_mongo/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easy_mongo/mongo.py" afterPath="$PROJECT_DIR$/easy_mongo/mongo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,9 +29,11 @@
       <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+              <folding>
+                <element signature="e#38#81#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,8 +41,8 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy_mongo/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -47,21 +51,21 @@
       <file leaf-file-name="mongo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy_mongo/mongo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding>
-                <element signature="e#40#54#0" expanded="true" />
-                <element signature="e#265#349#0" expanded="false" />
-                <element signature="e#390#470#0" expanded="false" />
-                <element signature="e#507#575#0" expanded="false" />
-                <element signature="e#605#634#0" expanded="false" />
-                <element signature="e#673#715#0" expanded="false" />
-                <element signature="e#753#794#0" expanded="false" />
-                <element signature="e#833#906#0" expanded="false" />
-                <element signature="e#961#1021#0" expanded="false" />
-                <element signature="e#1101#1330#0" expanded="false" />
-                <element signature="e#1376#1549#0" expanded="false" />
-                <element signature="e#1585#1613#0" expanded="false" />
+                <element signature="e#39#53#0" expanded="true" />
+                <element signature="e#264#348#0" expanded="false" />
+                <element signature="e#389#469#0" expanded="false" />
+                <element signature="e#506#574#0" expanded="false" />
+                <element signature="e#604#633#0" expanded="false" />
+                <element signature="e#672#714#0" expanded="false" />
+                <element signature="e#752#793#0" expanded="false" />
+                <element signature="e#832#905#0" expanded="false" />
+                <element signature="e#960#1020#0" expanded="false" />
+                <element signature="e#1100#1329#0" expanded="false" />
+                <element signature="e#1375#1548#0" expanded="false" />
+                <element signature="e#1584#1612#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -85,9 +89,9 @@
         <option value="$PROJECT_DIR$/mongo.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/easy_mongo/setup.py" />
+        <option value="$PROJECT_DIR$/easy_mongo/__init__.py" />
         <option value="$PROJECT_DIR$/easy_mongo/mongo.py" />
         <option value="$PROJECT_DIR$/setup.py" />
-        <option value="$PROJECT_DIR$/easy_mongo/__init__.py" />
       </list>
     </option>
   </component>
@@ -298,6 +302,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/easy_mongo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -308,38 +320,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy_mongo/mongo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding>
-            <element signature="e#40#54#0" expanded="true" />
-            <element signature="e#265#349#0" expanded="false" />
-            <element signature="e#390#470#0" expanded="false" />
-            <element signature="e#507#575#0" expanded="false" />
-            <element signature="e#605#634#0" expanded="false" />
-            <element signature="e#673#715#0" expanded="false" />
-            <element signature="e#753#794#0" expanded="false" />
-            <element signature="e#833#906#0" expanded="false" />
-            <element signature="e#961#1021#0" expanded="false" />
-            <element signature="e#1101#1330#0" expanded="false" />
-            <element signature="e#1376#1549#0" expanded="false" />
-            <element signature="e#1585#1613#0" expanded="false" />
+            <element signature="e#39#53#0" expanded="true" />
+            <element signature="e#264#348#0" expanded="false" />
+            <element signature="e#389#469#0" expanded="false" />
+            <element signature="e#506#574#0" expanded="false" />
+            <element signature="e#604#633#0" expanded="false" />
+            <element signature="e#672#714#0" expanded="false" />
+            <element signature="e#752#793#0" expanded="false" />
+            <element signature="e#832#905#0" expanded="false" />
+            <element signature="e#960#1020#0" expanded="false" />
+            <element signature="e#1100#1329#0" expanded="false" />
+            <element signature="e#1375#1548#0" expanded="false" />
+            <element signature="e#1584#1612#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy_mongo/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding>
+            <element signature="e#38#81#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
