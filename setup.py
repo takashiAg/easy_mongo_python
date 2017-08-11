@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf-8
 from setuptools import setup, find_packages
-from pip_github_test import __author__, __version__, __license__
+from easy_mongo import __author__, __version__, __license__
 
 setup(
     name='easy_mongo',
