@@ -13,5 +13,5 @@ setup(
     url='https://github.com/takashiAg/easy_mongo_python',
     keywords='sample pip github python',
     packages=find_packages(),
-    install_requires=['pymongo','python-dateutil'],
+    install_requires=['pymongo>=3.5.0','python-dateutil>=2.6.1'],
 )
